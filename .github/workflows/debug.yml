@@ -2,7 +2,7 @@ name: Debugging Demo
 
 on:
   workflow_dispatch:
-    push:
+  push:
 
 env:
   USER_1: "foo-user"
